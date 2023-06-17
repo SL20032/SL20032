@@ -1,16 +1,13 @@
-### Hi there 👋
+`printf("hello, wanderer\n");`
 
-<!--
-**SL20032/SL20032** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi I'm Staszek, I live in Poland a country in central Europe.
 
-Here are some ideas to get you started:
+Some facts about me:
+- Programing on AVR MCU (and by now many more embeded systems) in C since 2018
+- Big enjoyer of analog (especialy precision) electronics
+- Currently a electronics and telecomunication student @ Silesian University of Technolodgy 
+- Currently beeing part of Silesian Aerospace Technolodgies a science club at my University 
+- Over the yers build some intersting stuff including rover for ERC style commpetition or model rockets
+- I like riding a bike in a forest
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
