@@ -1,13 +1,19 @@
 `printf("hello, wanderer\n");`
 
 Hi I'm Staszek, I live in Poland a country in central Europe.
-
+  
 Some facts about me:
-- Programing on AVR MCU (and by now many more embeded systems) in C since 2018
-- Big enjoyer of analog (especialy precision) electronics
-- Currently a electronics and telecomunication student @ Silesian University of Technolodgy 
-- Currently beeing part of Silesian Aerospace Technolodgies a science club at my University 
-- Over the yers build some intersting stuff including rover for ERC style commpetition or model rockets
-- I like riding a bike in a forest
-
-
+- Big enjoyer of analog (especially precision) electronics
+- Programing on AVR MCU (and by now many more embedded systems) in C since 2018
+- Currently being enrolled as Master's student majoring in electronics and telecommunication @ Silesian University of Technology in Gliwice
+- Lead of Electronics engendering at Silesian Aerospace Technolodgies (science club at my University, specializing in space related stuff) 
+- Over the years build a lot of fun stuff ranging from rocket avionics, Rover drive train controllers to student satellite components.
+  
+Some of my more interesting projects:
+| Project | some info | link to repo / other resources |
+|---|---|---|
+| Modular BiAmp | Relatively simple modular Bi Autio amplifier designed to work with speakers from old technics HD501 system. Project to replace my dead stereo amplifier. | [Project repository](https://github.com/SL20032/Modular-BiAMP) |
+| Radiation Acquisition system for Cubesats | FPGA based system for collecting and accumulating spectra information from all sorts of radiation detectors operating in pulse mode. Designed to work as a part Cubesat. Simplifying just a multi input multi channel analizer (that’s a mouthful lmao). My Batchelor of engineering thesis btw. Project still in development. | [Project PCB repository](https://gitlab.com/sat-polsl/cubesat/payload-xray/xray-pulse-aqq-pcb/-/tree/main?ref_type=heads)  [Project FPGA discription repository](TBA) |
+| Electronic Power System for Cubesats | Power subsystem of with development process I’m leading at SAT. Mostly pretty standard power system as far as Cubesat goes but with a twist in battery subsystem. Very much in development.  | [PCB Repository]([link.com](https://gitlab.com/sat-polsl/cubesat/payload-xray/xray-pulse-aqq-pcb/-/tree/main?ref_type=heads)) |
+| Analog Peak Detector | Analog precision pulse peak detector with simple microcontroller circuit making a simple MCA | [Project repository](https://gitlab.com/sat-polsl/cubesat/payload-xray/standalone-peak-detector) |
+| X ray Detectors Galore | Some of mine Xray / Gamma ray detector experiments. Mostly recent / successful ones xD. | [The old let's say successful one](https://github.com/SL20032/Gamma-Ray-Detector)  [More recent stuff I’m working on](https://gitlab.com/sat-polsl/cubesat/payload-xray/xray_head_double) |
